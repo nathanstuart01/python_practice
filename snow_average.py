@@ -1,19 +1,6 @@
 import numpy as np
 from scipy import stats 
 
-import csv
-
-raw_snow_file = '~/desktop/altasnow70s.csv'
-
-def csv_snow_reader(csv_file)
-with open(csv_file, 'rb') as f:
-	area_snow = []
-	reader = csv.reader(f)
-	for row in reader:
-		print(row)
-
-
-
 Altasnow70s = [481,466,496,595,605,439,314,524,488,514]
 Altasnow80s = [391,696,637,743,457,599,381,410,581,448]
 Altasnow90s = [580,395,650,490,745,562,599,574,458,446]
