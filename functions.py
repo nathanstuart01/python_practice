@@ -26,5 +26,3 @@ def describe_pets(pet_name, animal_type='dog'):
 describe_pets(pet_name ='willie')
 describe_pets('willie')
 describe_pets(pet_name= 'lewis', animal_type='cat')
-
-describe_pets()
