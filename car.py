@@ -58,6 +58,3 @@ class ElectricCar(Car):
 
 	def fill_gas_tank(self):
 		print("This car doesn't need a gas tank!")
-
-
-
